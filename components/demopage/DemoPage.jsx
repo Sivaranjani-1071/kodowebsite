@@ -584,7 +584,7 @@ const DemoSection = ({ blogs }) => {
         </div>
       </div>
 
-  <div style={{ marginTop: "120px", marginBottom: "120px" }} className="container">
+  <div style={{ marginTop: "100px", marginBottom: "50px" }} className="container">
         {AccordionData.AccordionThree.map((data, index) => (
           <div className="row g-5" key={index}>
             <div className="col-lg-6">
