@@ -3,6 +3,7 @@
 import React, { useEffect, useState, useRef } from "react";
 import Image from 'next/image';
 import Link from 'next/link';
+import "../../public/css/global.css";
 // ... other imports
 import sal from "sal.js";
 import dynamic from "next/dynamic";
@@ -68,7 +69,11 @@ const DemoSection = ({ blogs }) => {
                     </div>
                     <h1 className="title">
                    Simple, secure, and compliant 
-                      <span className="theme-gradient px-3">
+                      <span style={{
+  background: "linear-gradient(90deg, #07225b, #02acf7)",
+  WebkitBackgroundClip: "text",
+  WebkitTextFillColor: "transparent"
+}} className="theme-gradient px-3">
                        e-signatures
                       </span>
                       for growing teams
