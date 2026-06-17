@@ -5,27 +5,27 @@
       "title": "Advance Tab Style One.",
       "body": [
         {
-          "text": "Market Researce.",
+          "text": "Legally Binding & Secure.",
           "isActive": false,
           "tab": "home-tab",
           "target": "home",
-          "desc": "Use Doob template you can build a corporate website a short time.",
+          "desc": "Legally Binding & Secure Sign with confidence using 256-bit encryption and full compliance with ESIGN and UETA laws.",
           "img": "/images/tab/tabs-03.jpg"
         },
         {
-          "text": "Corporate Report.",
+          "text": "Reusable Templates",
           "isActive": true,
           "tab": "profile-tab",
           "target": "profile",
-          "desc": "Use Doob template you can build a corporate website a short time.",
+          "desc": "Turn frequent documents like NDAs and Offer Letters into templates you can send in seconds.",
           "img": "/images/tab/tabs-02.jpg"
         },
         {
-          "text": "App Development.",
+          "text": "Real-Time Tracking",
           "isActive": false,
           "tab": "contact-tab",
           "target": "contact",
-          "desc": "Use Doob template you can build a corporate website a short time.",
+          "desc": "Get instant alerts when documents are opened or signed, complete with a detailed audit trail.",
           "img": "/images/tab/tabs-01.jpg"
         }
       ]
@@ -38,7 +38,7 @@
 
       "body": [
         {
-          "text": "Market Researce.",
+          "text": "Legally Binding & Secure.",
           "isActive": false,
           "tab": "home-tab-2",
           "target": "home-2",
@@ -71,7 +71,7 @@
 
       "body": [
         {
-          "text": "Market Researce.",
+          "text": "Legally Binding & Secure",
           "isActive": false,
           "tab": "home-tab-3",
           "target": "home-3",

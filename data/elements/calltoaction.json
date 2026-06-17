@@ -3,17 +3,17 @@
     {
       "left": [
         {
-          "tag": "New Collection",
-          "title": "Online Courses from Histudy",
-          "desc": "Top instructors from around the world",
+          "tag": "Core Features ",
+          "title": "Sign documents in any browser ",
+          "desc": "Recipients can sign instantly on mobile or desktop without creating an account or downloading apps.",
           "img": "/images/others/video-01.jpg"
         }
       ],
       "right": [
         {
-          "tag": "Top Teacher",
-          "title": "Free Online Courses from Histudy School To Education",
-          "desc": "Top instructors from around the world"
+          "tag": "Document Management",
+          "title": "Track every step of the deal ",
+          "desc": "Get real-time status updates and a complete audit trail for every document you send."
         }
       ]
     }

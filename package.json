@@ -8,13 +8,13 @@
     "run": "npm run dev",
     "start": "next start",
     "lint": "next lint"
-   
   },
   "dependencies": {
     "@dnd-kit/core": "^6.1.0",
     "@dnd-kit/modifiers": "^7.0.0",
     "@dnd-kit/sortable": "^8.0.0",
     "@dnd-kit/utilities": "^3.2.2",
+    "@livechat/widget-react": "^1.4.0",
     "bootstrap": "^5.3.2",
     "framer-motion": "^11.0.8",
     "gray-matter": "^4.0.3",

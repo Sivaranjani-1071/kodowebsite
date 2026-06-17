@@ -99,8 +99,8 @@ const DemoSection = ({ blogs }) => {
 
     <div className="rbt-advance-tab-area rbt-section-gap bg-color-white">
             <AdvanceTab
-              tag="YOU CAN CUSTOMIZE ALL"
-              title="Advance Tab Style One."
+              tag="Key Features"
+              title="Everything you need to sign documents online."
             />
           </div>
 
@@ -112,10 +112,9 @@ const DemoSection = ({ blogs }) => {
               <Image src={bgShape} width={285} height={285} alt="Shape" />
             </div>
             <h2 className="title">
-              A design tool <span className="color-body">(Figma)</span> for
-              crafting engaging UI/UX{" "}
-              <span className="color-body">design experiences</span> and visual
-              assets with <span className="theme-gradient">Histudy.</span>
+              Advanced 
+ <span className="color-body">(tools)</span> for complex workflows.{" "}
+              
             </h2>
           </div>
           <div className="row g-5">
@@ -128,10 +127,10 @@ const DemoSection = ({ blogs }) => {
               <div className="rbt-card variation-03 style_2">
                 <div className="rbt-card-body">
                   <h5 className="rbt-card-title">
-                    Learn UX/UI Design, (Figma) Zero To Mastery
+                   Send to hundreds at once.
                   </h5>
                   <p className="rbt-card-text">
-                    Take yourself a step further stay with me.
+                   Need 50 employees to sign a new policy? Upload a CSV list and send a unique copy to everyone in one click. 
                   </p>
                 </div>
                 <div className="rbt-card-img">
@@ -153,10 +152,9 @@ const DemoSection = ({ blogs }) => {
             >
               <div className="rbt-card variation-03 style_2">
                 <div className="rbt-card-body">
-                  <h5 className="rbt-card-title">26 Lessons And 180 Hours</h5>
+                  <h5 className="rbt-card-title">Turn your tablet into a kiosk. </h5>
                   <p className="rbt-card-text">
-                    We will teach different parts of each chapter, such as
-                    Typography, Prototype, Color, and many more.
+                   Perfect for events, front desks, or field work. Let people sign directly on your device without sending an email. 
                   </p>
                 </div>
                 <div className="rbt-card-img">
@@ -179,10 +177,10 @@ const DemoSection = ({ blogs }) => {
               <div className="rbt-card variation-03 style_2">
                 <div className="rbt-card-body">
                   <h5 className="rbt-card-title">
-                    Know About Figma, PS, XD, AI
+                   Organize & Collaborate. 
                   </h5>
                   <p className="rbt-card-text">
-                    The tools needed for the job will be taught.
+                    Stop chasing files in email threads. Share templates and completed documents with your team in secure, centralized folders. 
                   </p>
                 </div>
                 <div className="rbt-card-img">
@@ -204,9 +202,9 @@ const DemoSection = ({ blogs }) => {
             >
               <div className="rbt-card variation-03 style_2">
                 <div className="rbt-card-body">
-                  <h5 className="rbt-card-title">Learn Offline & Online</h5>
+                  <h5 className="rbt-card-title">Smart forms that adapt. </h5>
                   <p className="rbt-card-text">
-                    The tools needed for the job will be taught.
+                    Show or hide fields based on signer answers. Create dynamic contracts that adjust automatically to the data provided. 
                   </p>
                 </div>
                 <div className="rbt-card-img">
@@ -232,29 +230,13 @@ const DemoSection = ({ blogs }) => {
                     <span className="theme-gradient">Support System</span>
                   </h6>
                   <h5 className="rbt-card-title">
-                    I’m{" "}
-                    <span>
-                     <Image
-  src="/images/course/wishlist-course-0.png"
-  width={406}
-  height={355}
-  alt="Card image"
-/>
-                    </span>{" "}
-                    Always With You, To Solve Any
-                    <span>
-                  <Image
-  src="/images/course/wishlist-course-0.gif"
-  width={406}
-  height={355}
-  alt="Card image"
-/>
-                    </span>
-                    Problem
+                   
+                  Enterprise power. Consumer simplicity.
+                  
+                    
                   </h5>
                   <p className="rbt-card-text">
-                    Feel free to let me know if there is any problem with the
-                    work and solve it.
+                   We designed these advanced tools to be intuitive. You don't need an IT team or a training manual to build complex workflows—just log in and go. 
                   </p>
                 </div>
                 <div className="rbt-card-img-wrap">
@@ -362,11 +344,12 @@ const DemoSection = ({ blogs }) => {
                   <div className="section-title">
                     <h6 className="b2 mb--15">
                       <span className="theme-gradient">
-                        Welcome To Histudy Institute
+                        Get Started 
+
                       </span>
                     </h6>
                     <h2 className="title w-600">
-                      Your Goals Are Within <br />{" "}
+                    Everything you need to grow your business. <br />{" "}
                       <svg
                         width="40"
                         height="30"
@@ -417,7 +400,8 @@ const DemoSection = ({ blogs }) => {
                           aria-controls="development"
                           aria-selected="true"
                         >
-                          <span className="filter-text">Our History</span>
+                          <span className="filter-text">Start Free Trial 
+</span>
                         </button>
                       </li>
                       <li className="nav-item" role="presentation">
@@ -430,7 +414,8 @@ const DemoSection = ({ blogs }) => {
                           aria-controls="ui-ux"
                           aria-selected="false"
                         >
-                          <span className="filter-text">Our Mission</span>
+                          <span className="filter-text">Become a Partner 
+</span>
                         </button>
                       </li>
                       <li className="nav-item" role="presentation">
@@ -443,7 +428,7 @@ const DemoSection = ({ blogs }) => {
                           aria-controls="marketing"
                           aria-selected="false"
                         >
-                          <span className="filter-text">Our Values</span>
+                          <span className="filter-text">Contact Sales</span>
                         </button>
                       </li>
                     </ul>
@@ -455,42 +440,23 @@ const DemoSection = ({ blogs }) => {
                         aria-labelledby="development-tab"
                       >
                         <p className="mt--20">
-                          At Histudy University, we are moving boldly - and
-                          concertedly - to expand tomorrow's frontiers. We
-                          believe that we have the power to shape the future,
-                          for the better
+                         Experience the power of Signably with zero risk. Create your account in seconds, upload your first document, and get it signed today. No credit card required—just instant access to professional e-signatures. 
                         </p>
                         <ul className="mt--30 mb--25">
                           <li>
                             <span className="icon bg-primary-opacity">
                               <i className="feather-heart"></i>
                             </span>
-                            <span className="text">Flexible Classes</span>
+                            <span className="text">No Credit Card Required </span>
                           </li>
                           <li>
                             <span className="icon bg-secondary-opacity">
                               <i className="feather-book"></i>
                             </span>
-                            <span className="text">Learn From Anywhere</span>
+                            <span className="text">24/7 Priority Support</span>
                           </li>
                         </ul>
-                        <div className="d-flex align-items-center gap-5 flex-wrap">
-                          <Link
-                            className="rbt-btn btn-gradient hover-icon-reverse"
-                            href="/about-us-01"
-                          >
-                            <span className="icon-reverse-wrapper">
-                              <span className="btn-text">Explore More</span>
-                              <span className="btn-icon">
-                                <i className="feather-arrow-right"></i>
-                              </span>
-                              <span className="btn-icon">
-                                <i className="feather-arrow-right"></i>
-                              </span>
-                            </span>
-                          </Link>
-                         
-                        </div>
+                       
                       </div>
                       <div
                         className="tab-pane fade"
@@ -499,42 +465,23 @@ const DemoSection = ({ blogs }) => {
                         aria-labelledby="ui_ux-tab"
                       >
                         <p className="mt--20">
-                          At Histudy University, we are moving boldly - and
-                          concertedly - to expand tomorrow's frontiers. We
-                          believe that we have the power to shape the future,
-                          for the better
+                        Join the Signably Partner Program to expand your service offerings. Whether you are an agency, reseller, or software integrator, we provide the tools, commissions, and dedicated support you need to grow your revenue alongside us. 
                         </p>
-                        <ul className="mt--30 mb--25">
+                       <ul className="mt--30 mb--25">
                           <li>
                             <span className="icon bg-primary-opacity">
                               <i className="feather-heart"></i>
                             </span>
-                            <span className="text">Flexible Classes</span>
+                            <span className="text">No Credit Card Required </span>
                           </li>
                           <li>
                             <span className="icon bg-secondary-opacity">
                               <i className="feather-book"></i>
                             </span>
-                            <span className="text">Learn From Anywhere</span>
+                            <span className="text">24/7 Priority Support</span>
                           </li>
                         </ul>
-                        <div className="d-flex align-items-center gap-5 flex-wrap">
-                          <Link
-                            className="rbt-btn btn-gradient hover-icon-reverse"
-                            href="/about-us-01"
-                          >
-                            <span className="icon-reverse-wrapper">
-                              <span className="btn-text">Explore More</span>
-                              <span className="btn-icon">
-                                <i className="feather-arrow-right"></i>
-                              </span>
-                              <span className="btn-icon">
-                                <i className="feather-arrow-right"></i>
-                              </span>
-                            </span>
-                          </Link>
                        
-                        </div>
                       </div>
                       <div
                         className="tab-pane fade"
@@ -543,42 +490,23 @@ const DemoSection = ({ blogs }) => {
                         aria-labelledby="marketing-tab"
                       >
                         <p className="mt--20">
-                          At Histudy University, we are moving boldly - and
-                          concertedly - to expand tomorrow's frontiers. We
-                          believe that we have the power to shape the future,
-                          for the better
+                         Have complex requirements or need a custom enterprise plan? Our team is ready to help you map out the perfect solution. Schedule a demo or chat with us to discuss volume pricing, API access, and dedicated onboarding. 
                         </p>
-                        <ul className="mt--30 mb--25">
+                         <ul className="mt--30 mb--25">
                           <li>
                             <span className="icon bg-primary-opacity">
                               <i className="feather-heart"></i>
                             </span>
-                            <span className="text">Flexible Classes</span>
+                            <span className="text">No Credit Card Required </span>
                           </li>
                           <li>
                             <span className="icon bg-secondary-opacity">
                               <i className="feather-book"></i>
                             </span>
-                            <span className="text">Learn From Anywhere</span>
+                            <span className="text">24/7 Priority Support</span>
                           </li>
                         </ul>
-                        <div className="d-flex align-items-center gap-5 flex-wrap">
-                          <Link
-                            className="rbt-btn btn-gradient hover-icon-reverse"
-                            href="/about-us-01"
-                          >
-                            <span className="icon-reverse-wrapper">
-                              <span className="btn-text">Explore More</span>
-                              <span className="btn-icon">
-                                <i className="feather-arrow-right"></i>
-                              </span>
-                              <span className="btn-icon">
-                                <i className="feather-arrow-right"></i>
-                              </span>
-                            </span>
-                          </Link>
-                        
-                        </div>
+                      
                       </div>
                     </div>
                   </div>
@@ -595,7 +523,7 @@ const DemoSection = ({ blogs }) => {
             <div className="col-lg-6">
               <div className="rbt-accordion-style accordion">
                 <div className="section-title text-start mb--60">
-                  <h4 className="title">Purchases & Refunds</h4>
+                  <h4 className="title">Frequently Asked Questions</h4>
                 </div>
                 <div className="rbt-accordion-style rbt-accordion-04 accordion">
                   <div className="accordion" id="accordionExamplec3">
@@ -639,7 +567,9 @@ const DemoSection = ({ blogs }) => {
             <div className="col-lg-6">
               <div className="rbt-accordion-style accordion">
                 <div className="section-title text-start mb--60">
-                  <h4 className="title">Making Courses</h4>
+                  <h4 className="title"></h4>
+                <br />
+                
                 </div>
                 <div className="rbt-accordion-style rbt-accordion-04 accordion">
                   <div className="accordion" id="faqs-accordionExamplec3">
@@ -686,7 +616,7 @@ const DemoSection = ({ blogs }) => {
 
 
 
-
+<TextWidget organizationId="11c96abb-b6fa-40c1-9bef-44e39faf3812" />
     
     </>
   );

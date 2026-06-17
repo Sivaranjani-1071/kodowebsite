@@ -10,9 +10,9 @@ const CopyRight = () => {
           <div className="row align-items-center">
             <div className="col-xxl-6 col-xl-6 col-lg-6 col-md-12 col-12">
               <p className="rbt-link-hover text-center text-lg-start">
-                Copyright © 2025
-                <Link className="mx-2" href="https://rainbowthemes.net">
-                  Rainbow-Themes.
+                Copyright © 2026
+                <Link className="mx-2" href="components/demopage/DemoPage.jsx">
+                 Signably
                 </Link>
                 All Rights Reserved
               </p>

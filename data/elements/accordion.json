@@ -13,7 +13,7 @@
           "expanded": true,
           "collapsed": true,
           "show": true,
-          "accordionTitle": "What is Histudy ? How does it work?",
+          "accordionTitle": " Can I sign documents on my mobile phone? ",
           "desc": "You can run Histudy easily. Any School, University, College can be use this histudy education template for their educational purpose. A university can be run their online leaning management system by histudy education template."
         },
         {
@@ -22,7 +22,7 @@
           "expanded": false,
           "collapsed": false,
           "show": false,
-          "accordionTitle": "How can I get the customer support?",
+          "accordionTitle": " Can I sign documents on my mobile phone? ",
           "desc": "After purchasing the product need you any support you can be share with us with sending mail to rainbowit10@gmail.com."
         },
         {
@@ -50,7 +50,7 @@
   "AccordionTwo": [
     {
       "tag": "faq",
-      "title": "Have a Question with ",
+      "title": " Can I sign documents on my mobile phone?",
       "subTitle": " Histudy University?",
       "strong": "Its an educational platform",
       "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since",
@@ -63,7 +63,7 @@
           "expanded": true,
           "collapsed": true,
           "show": true,
-          "accordionTitle": "What is Histudy ? How does it work?",
+          "accordionTitle": " Can I sign documents on my mobile phone? ",
           "desc": "You can run Histudy easily. Any School, University, College can be use this histudy education template for their educational purpose. A university can be run their online leaning management system by histudy education template."
         },
         {
@@ -111,8 +111,8 @@
           "expanded": true,
           "collapsed": true,
           "show": true,
-          "accordionTitle": "What is Histudy ? How does it work?",
-          "desc": "You can run Histudy easily. Any School, University, College can be use this histudy education template for their educational purpose. A university can be run their online leaning management system by histudy education template."
+          "accordionTitle": " Can I sign documents on my mobile phone?",
+          "desc": "Yes. Signably is fully responsive and works on any device—mobile, tablet, or desktop. You and your clients can sign contracts on the go without installing any apps."
         },
         {
           "collapse": "collapseTwo3",
@@ -120,8 +120,8 @@
           "expanded": false,
           "collapsed": false,
           "show": false,
-          "accordionTitle": "How can I get the customer support?",
-          "desc": "After purchasing the product need you any support you can be share with us with sending mail to rainbowit10@gmail.com."
+          "accordionTitle": "Is my data secure?",
+          "desc": "Absolutely. We use enterprise-grade 256-bit SSL encryption for all documents in transit and at rest. Your data is stored in secure data centers with strict access controls."
         },
         {
           "collapse": "collapseThree3",
@@ -129,8 +129,8 @@
           "expanded": false,
           "collapsed": false,
           "show": false,
-          "accordionTitle": "Can I get update regularly and For how long do I get updates?",
-          "desc": "Yes, We will get update the Histudy. And you can get it any time. Next time we will comes with more feature. You can be get update for unlimited times. Our dedicated team works for update."
+          "accordionTitle": "Do recipients need an account to sign?",
+          "desc": "No. Recipients can sign documents immediately via the secure link sent to their email. They do not need to register, pay, or download any app to complete a signature."
         },
         {
           "collapse": "collapseFour3",
@@ -138,8 +138,8 @@
           "expanded": false,
           "collapsed": false,
           "show": false,
-          "accordionTitle": "15 Things To Know About Education?",
-          "desc": "If you're looking for random paragraphs, you've come to the right place. When a random word or a random sentence isn't quite enough, the next logical step is to find a random paragraph."
+          "accordionTitle": "Can I upload my own PDF documents?",
+          "desc": "Yes. You can upload any PDF, Word, or image file directly from your computer or import them from cloud storage like Google Drive or Dropbox."
         }
       ],
       "faqBody2": [
@@ -149,8 +149,8 @@
           "expanded": true,
           "collapsed": true,
           "show": true,
-          "accordionTitle": "What is Histudy ? How does it work?",
-          "desc": "You can run Histudy easily. Any School, University, College can be use this histudy education template for their educational purpose. A university can be run their online leaning management system by histudy education template."
+          "accordionTitle": "Can I try Signably for free?",
+          "desc": "Yes! We offer a free trial that gives you full access to our premium features. No credit card is required to start, so you can test the entire workflow risk-free."
         },
         {
           "collapse": "collapseTwo4",
@@ -158,7 +158,7 @@
           "expanded": false,
           "collapsed": false,
           "show": false,
-          "accordionTitle": "10 Brilliant Ways To Advertise Education",
+          "accordionTitle": "Does Signably support custom branding?",
           "desc": "After purchasing the product need you any support you can be share with us with sending mail to rainbowit10@gmail.com."
         },
         {
@@ -176,8 +176,8 @@
           "expanded": false,
           "collapsed": false,
           "show": false,
-          "accordionTitle": "15 Things To Know About Education?",
-          "desc": "If you're looking for random paragraphs, you've come to the right place. When a random word or a random sentence isn't quite enough, the next logical step is to find a random paragraph."
+          "accordionTitle": "How many team members can I add?",
+          "desc": "Our Team and Enterprise plans support multiple users. You can assign different roles (like Admin or Member) to control who can view, send, or manage templates."
         }
       ]
     }
@@ -237,7 +237,7 @@
     {
       "id": "collapseOne",
       "headingId": "headingOne",
-      "question": "What is Histudy ? How does it work?",
+      "question": " Can I sign documents on my mobile phone?",
       "answer": [
         "You can run Histudy easily. Any School, University, College can use this Histudy education template for their educational purpose. A university can be success you.",
         "Run their online learning management system by Histudy education template anywhere and anytime."
