@@ -9,7 +9,7 @@ import sal from "sal.js";
 import dynamic from "next/dynamic";
 import "odometer/themes/odometer-theme-default.css";
 import AccordionData from "../../data/elements/accordion.json";
-
+import TextWidget from '@/components/TextWidget' 
 import ServiceThree from "../Services/Service-Three";
 import CallToAction from "../Call-To-Action/CallToAction";
 import CounterTwo from "../Counters/Counter-Two";
