@@ -9,7 +9,7 @@ import sal from "sal.js";
 import dynamic from "next/dynamic";
 import "odometer/themes/odometer-theme-default.css";
 import AccordionData from "../../data/elements/accordion.json";
-import TextWidget from '@/components/TextWidget' 
+
 import ServiceThree from "../Services/Service-Three";
 import CallToAction from "../Call-To-Action/CallToAction";
 import CounterTwo from "../Counters/Counter-Two";
@@ -54,7 +54,7 @@ const DemoSection = ({ blogs }) => {
 
   return (
     <>
-     <div
+      <div
         className="rbt-banner-area rbt-banner-2 header-transperent-spacer"
         style={{ paddingTop: 127 }}
       >
@@ -68,13 +68,13 @@ const DemoSection = ({ blogs }) => {
                       <span className="rbt-new-badge-icon">🔒 </span> Legally Valid & Secure for Your Business
                     </div>
                     <h1 className="title">
-                   Simple, secure, and compliant 
+                      Simple, secure, and compliant
                       <span style={{
-  background: "linear-gradient(90deg, #07225b, #02acf7)",
-  WebkitBackgroundClip: "text",
-  WebkitTextFillColor: "transparent"
-}} className="theme-gradient px-3">
-                       e-signatures
+                        background: "linear-gradient(90deg, #07225b, #02acf7)",
+                        WebkitBackgroundClip: "text",
+                        WebkitTextFillColor: "transparent"
+                      }} className="theme-gradient px-3">
+                        e-signatures
                       </span>
                       for growing teams
                     </h1>
@@ -87,7 +87,7 @@ const DemoSection = ({ blogs }) => {
         </div>
       </div>
 
-  <div className="rbt-callto-action-area mt_dec--half">
+      <div className="rbt-callto-action-area mt_dec--half">
         <CallToAction />
       </div>
 
@@ -97,24 +97,24 @@ const DemoSection = ({ blogs }) => {
         <CounterTwo />
       </div>
 
-    <div className="rbt-advance-tab-area rbt-section-gap bg-color-white">
-            <AdvanceTab
-              tag="Key Features"
-              title="Everything you need to sign documents online."
-            />
-          </div>
+      <div className="rbt-advance-tab-area rbt-section-gap bg-color-white">
+        <AdvanceTab
+          tag="Key Features"
+          title="Everything you need to sign documents online."
+        />
+      </div>
 
- 
-   <div className="rbt-course-area rbt-section-gapBottom">
+
+      <div className="rbt-course-area rbt-section-gapBottom">
         <div className="container">
           <div className="section-title-2 text-center with-shape mb--170 mb_lg--100 mb_md--100 mb_sm--100">
             <div className="shape-1" ref={ref1} style={style1}>
               <Image src={bgShape} width={285} height={285} alt="Shape" />
             </div>
             <h2 className="title">
-              Advanced 
- <span className="color-body">(tools)</span> for complex workflows.{" "}
-              
+              Advanced
+              <span className="color-body">(tools)</span> for complex workflows.{" "}
+
             </h2>
           </div>
           <div className="row g-5">
@@ -127,19 +127,19 @@ const DemoSection = ({ blogs }) => {
               <div className="rbt-card variation-03 style_2">
                 <div className="rbt-card-body">
                   <h5 className="rbt-card-title">
-                   Send to hundreds at once.
+                    Send to hundreds at once.
                   </h5>
                   <p className="rbt-card-text">
-                   Need 50 employees to sign a new policy? Upload a CSV list and send a unique copy to everyone in one click. 
+                    Need 50 employees to sign a new policy? Upload a CSV list and send a unique copy to everyone in one click.
                   </p>
                 </div>
                 <div className="rbt-card-img">
-                <Image
-  src="/images/course/wishlist-course-01.png"
-  width={406}
-  height={355}
-  alt="Card image"
-/>
+                  <Image
+                    src="/images/course/wishlist-course-01.png"
+                    width={406}
+                    height={355}
+                    alt="Card image"
+                  />
                 </div>
               </div>
             </div>
@@ -154,16 +154,16 @@ const DemoSection = ({ blogs }) => {
                 <div className="rbt-card-body">
                   <h5 className="rbt-card-title">Turn your tablet into a kiosk. </h5>
                   <p className="rbt-card-text">
-                   Perfect for events, front desks, or field work. Let people sign directly on your device without sending an email. 
+                    Perfect for events, front desks, or field work. Let people sign directly on your device without sending an email.
                   </p>
                 </div>
                 <div className="rbt-card-img">
-                <Image
-  src="/images/course/wishlist-course-02.gif"
-  width={406}
-  height={355}
-  alt="Card image"
-/>
+                  <Image
+                    src="/images/course/wishlist-course-02.gif"
+                    width={406}
+                    height={355}
+                    alt="Card image"
+                  />
                 </div>
               </div>
             </div>
@@ -177,19 +177,19 @@ const DemoSection = ({ blogs }) => {
               <div className="rbt-card variation-03 style_2">
                 <div className="rbt-card-body">
                   <h5 className="rbt-card-title">
-                   Organize & Collaborate. 
+                    Organize & Collaborate.
                   </h5>
                   <p className="rbt-card-text">
-                    Stop chasing files in email threads. Share templates and completed documents with your team in secure, centralized folders. 
+                    Stop chasing files in email threads. Share templates and completed documents with your team in secure, centralized folders.
                   </p>
                 </div>
                 <div className="rbt-card-img">
-                 <Image
-  src="/images/course/wishlist-course-03.png"
-  width={406}
-  height={355}
-  alt="Card image"
-/>
+                  <Image
+                    src="/images/course/wishlist-course-03.png"
+                    width={406}
+                    height={355}
+                    alt="Card image"
+                  />
                 </div>
               </div>
             </div>
@@ -204,16 +204,16 @@ const DemoSection = ({ blogs }) => {
                 <div className="rbt-card-body">
                   <h5 className="rbt-card-title">Smart forms that adapt. </h5>
                   <p className="rbt-card-text">
-                    Show or hide fields based on signer answers. Create dynamic contracts that adjust automatically to the data provided. 
+                    Show or hide fields based on signer answers. Create dynamic contracts that adjust automatically to the data provided.
                   </p>
                 </div>
                 <div className="rbt-card-img">
-                <Image
-  src="/images/course/wishlist-course-04.png"
-  width={406}
-  height={355}
-  alt="Card image"
-/>
+                  <Image
+                    src="/images/course/wishlist-course-04.png"
+                    width={406}
+                    height={355}
+                    alt="Card image"
+                  />
                 </div>
               </div>
             </div>
@@ -230,33 +230,33 @@ const DemoSection = ({ blogs }) => {
                     <span className="theme-gradient">Support System</span>
                   </h6>
                   <h5 className="rbt-card-title">
-                   
-                  Enterprise power. Consumer simplicity.
-                  
-                    
+
+                    Enterprise power. Consumer simplicity.
+
+
                   </h5>
                   <p className="rbt-card-text">
-                   We designed these advanced tools to be intuitive. You don't need an IT team or a training manual to build complex workflows—just log in and go. 
+                    We designed these advanced tools to be intuitive. You don't need an IT team or a training manual to build complex workflows—just log in and go.
                   </p>
                 </div>
                 <div className="rbt-card-img-wrap">
                   <div className="shape-1">
-                   <div className="shape-1">
-  <Image src="/images/shape/wishlist-text-shape-01.png" width={66} height={32} alt="Shape" />
-</div>
+                    <div className="shape-1">
+                      <Image src="/images/shape/wishlist-text-shape-01.png" width={66} height={32} alt="Shape" />
+                    </div>
                   </div>
                   <div className="men-circle">
-                  <div className="men-circle">
-  <Image src="/images/shape/wishlist-b-men.png" width={151} height={145} alt="Shape" />
-</div>
+                    <div className="men-circle">
+                      <Image src="/images/shape/wishlist-b-men.png" width={151} height={145} alt="Shape" />
+                    </div>
                   </div>
                   <div className="rbt-card-img">
-                   <Image
-  src="/images/course/wishlist-course-05.png"
-  width={406}
-  height={355}
-  alt="Card image"
-/>
+                    <Image
+                      src="/images/course/wishlist-course-05.png"
+                      width={406}
+                      height={355}
+                      alt="Card image"
+                    />
                   </div>
                 </div>
               </div>
@@ -264,8 +264,8 @@ const DemoSection = ({ blogs }) => {
           </div>
         </div>
       </div>
-    
-    <div className="rbt-About-area rbt-section-gapTop">
+
+      <div className="rbt-About-area rbt-section-gapTop">
         <div className="about-style-4 version-02">
           <div className="u-shape">
             <Image src={union} width={136} height={136} alt="Shape" />
@@ -320,23 +320,23 @@ const DemoSection = ({ blogs }) => {
                       <h6 className="subtitle">Satisfied</h6>
                     </div>
                   </div>
-               <div className="thumb-1">
-  <Image
-    src={personImg}
-    width={390}
-    height={480}
-    alt="Thumb"
-  />
-</div>
+                  <div className="thumb-1">
+                    <Image
+                      src={personImg}
+                      width={390}
+                      height={480}
+                      alt="Thumb"
+                    />
+                  </div>
 
-<div className="thumb-2">
-  <Image
-    src={addImg}
-    width={339}
-    height={336}
-    alt="Thumb"
-  />
-</div>
+                  <div className="thumb-2">
+                    <Image
+                      src={addImg}
+                      width={339}
+                      height={336}
+                      alt="Thumb"
+                    />
+                  </div>
                 </div>
               </div>
               <div className="col-xl-6 col-12 mt--40">
@@ -344,12 +344,12 @@ const DemoSection = ({ blogs }) => {
                   <div className="section-title">
                     <h6 className="b2 mb--15">
                       <span className="theme-gradient">
-                        Get Started 
+                        Get Started
 
                       </span>
                     </h6>
                     <h2 className="title w-600">
-                    Everything you need to grow your business. <br />{" "}
+                      Everything you need to grow your business. <br />{" "}
                       <svg
                         width="40"
                         height="30"
@@ -400,8 +400,8 @@ const DemoSection = ({ blogs }) => {
                           aria-controls="development"
                           aria-selected="true"
                         >
-                          <span className="filter-text">Start Free Trial 
-</span>
+                          <span className="filter-text">Start Free Trial
+                          </span>
                         </button>
                       </li>
                       <li className="nav-item" role="presentation">
@@ -414,8 +414,8 @@ const DemoSection = ({ blogs }) => {
                           aria-controls="ui-ux"
                           aria-selected="false"
                         >
-                          <span className="filter-text">Become a Partner 
-</span>
+                          <span className="filter-text">Become a Partner
+                          </span>
                         </button>
                       </li>
                       <li className="nav-item" role="presentation">
@@ -440,7 +440,7 @@ const DemoSection = ({ blogs }) => {
                         aria-labelledby="development-tab"
                       >
                         <p className="mt--20">
-                         Experience the power of Signably with zero risk. Create your account in seconds, upload your first document, and get it signed today. No credit card required—just instant access to professional e-signatures. 
+                          Experience the power of Signably with zero risk. Create your account in seconds, upload your first document, and get it signed today. No credit card required—just instant access to professional e-signatures.
                         </p>
                         <ul className="mt--30 mb--25">
                           <li>
@@ -456,7 +456,7 @@ const DemoSection = ({ blogs }) => {
                             <span className="text">24/7 Priority Support</span>
                           </li>
                         </ul>
-                       
+
                       </div>
                       <div
                         className="tab-pane fade"
@@ -465,9 +465,9 @@ const DemoSection = ({ blogs }) => {
                         aria-labelledby="ui_ux-tab"
                       >
                         <p className="mt--20">
-                        Join the Signably Partner Program to expand your service offerings. Whether you are an agency, reseller, or software integrator, we provide the tools, commissions, and dedicated support you need to grow your revenue alongside us. 
+                          Join the Signably Partner Program to expand your service offerings. Whether you are an agency, reseller, or software integrator, we provide the tools, commissions, and dedicated support you need to grow your revenue alongside us.
                         </p>
-                       <ul className="mt--30 mb--25">
+                        <ul className="mt--30 mb--25">
                           <li>
                             <span className="icon bg-primary-opacity">
                               <i className="feather-heart"></i>
@@ -481,7 +481,7 @@ const DemoSection = ({ blogs }) => {
                             <span className="text">24/7 Priority Support</span>
                           </li>
                         </ul>
-                       
+
                       </div>
                       <div
                         className="tab-pane fade"
@@ -490,9 +490,9 @@ const DemoSection = ({ blogs }) => {
                         aria-labelledby="marketing-tab"
                       >
                         <p className="mt--20">
-                         Have complex requirements or need a custom enterprise plan? Our team is ready to help you map out the perfect solution. Schedule a demo or chat with us to discuss volume pricing, API access, and dedicated onboarding. 
+                          Have complex requirements or need a custom enterprise plan? Our team is ready to help you map out the perfect solution. Schedule a demo or chat with us to discuss volume pricing, API access, and dedicated onboarding.
                         </p>
-                         <ul className="mt--30 mb--25">
+                        <ul className="mt--30 mb--25">
                           <li>
                             <span className="icon bg-primary-opacity">
                               <i className="feather-heart"></i>
@@ -506,7 +506,7 @@ const DemoSection = ({ blogs }) => {
                             <span className="text">24/7 Priority Support</span>
                           </li>
                         </ul>
-                      
+
                       </div>
                     </div>
                   </div>
@@ -517,7 +517,7 @@ const DemoSection = ({ blogs }) => {
         </div>
       </div>
 
-  <div style={{ marginTop: "100px", marginBottom: "50px" }} className="container">
+      <div style={{ marginTop: "100px", marginBottom: "50px" }} className="container">
         {AccordionData.AccordionThree.map((data, index) => (
           <div className="row g-5" key={index}>
             <div className="col-lg-6">
@@ -534,9 +534,8 @@ const DemoSection = ({ blogs }) => {
                           id={item.heading}
                         >
                           <button
-                            className={`accordion-button ${
-                              !item.collapsed ? "collapsed" : ""
-                            }`}
+                            className={`accordion-button ${!item.collapsed ? "collapsed" : ""
+                              }`}
                             type="button"
                             data-bs-toggle="collapse"
                             data-bs-target={`#${item.collapse}`}
@@ -548,9 +547,8 @@ const DemoSection = ({ blogs }) => {
                         </h2>
                         <div
                           id={item.collapse}
-                          className={`accordion-collapse collapse ${
-                            item.show ? "show" : ""
-                          }`}
+                          className={`accordion-collapse collapse ${item.show ? "show" : ""
+                            }`}
                           aria-labelledby={item.heading}
                           data-bs-parent="#accordionExamplec3"
                         >
@@ -568,8 +566,7 @@ const DemoSection = ({ blogs }) => {
               <div className="rbt-accordion-style accordion">
                 <div className="section-title text-start mb--60">
                   <h4 className="title"></h4>
-                <br />
-                
+                  <br />
                 </div>
                 <div className="rbt-accordion-style rbt-accordion-04 accordion">
                   <div className="accordion" id="faqs-accordionExamplec3">
@@ -580,9 +577,8 @@ const DemoSection = ({ blogs }) => {
                           id={`faq-${item.heading}`}
                         >
                           <button
-                            className={`accordion-button ${
-                              !item.collapsed ? "collapsed" : ""
-                            }`}
+                            className={`accordion-button ${!item.collapsed ? "collapsed" : ""
+                              }`}
                             type="button"
                             data-bs-toggle="collapse"
                             data-bs-target={`#faq-${item.collapse}`}
@@ -594,9 +590,8 @@ const DemoSection = ({ blogs }) => {
                         </h2>
                         <div
                           id={`faq-${item.collapse}`}
-                          className={`accordion-collapse collapse ${
-                            item.show ? "show" : ""
-                          }`}
+                          className={`accordion-collapse collapse ${item.show ? "show" : ""
+                            }`}
                           aria-labelledby={`faq-${item.heading}`}
                           data-bs-parent="#faqs-accordionExamplec3"
                         >
@@ -616,8 +611,8 @@ const DemoSection = ({ blogs }) => {
 
 
 
-<TextWidget organizationId="11c96abb-b6fa-40c1-9bef-44e39faf3812" />
-    
+
+
     </>
   );
 };
